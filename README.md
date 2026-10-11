@@ -3,6 +3,8 @@
 </div>
 
 # 🛡️ ADOps - Official Lab Notes
+🔗 **Connect with me:** [LinkedIn](https://www.linkedin.com/in/amanswami/)
+                        [YouTube](https://www.youtube.com/@ADOpsSec)
 
 Welcome to the official repository for the **ADOps (@ADOpsSec)** YouTube channel! This space is dedicated to raw, practical, and hands-on offensive security notes.
 
